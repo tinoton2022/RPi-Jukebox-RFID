@@ -89,6 +89,7 @@ You will need a terminal, like PuTTY for Windows or the Terminal for Mac to proc
     ```
     $ sudo apt update && sudo apt full-upgrade
     ```
+1. Install evdev with `$sudo pip3 install evdev`
 1. Reboot with `sudo reboot`
 1. Login again with SSH and open the Raspberry Pi config
     ```
